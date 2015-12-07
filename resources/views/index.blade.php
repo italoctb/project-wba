@@ -57,76 +57,18 @@
 		</div>
 	</div>
 	<!-- Services section start -->
-	<section id="services">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4">
-					<div class="service-item">
-						<div class="icon"><i class="fa fa-diamond"></i></div>
-						<h3>We Are Creative</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco.
-						</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="service-item">
-						<div class="icon"><i class="fa fa-gear"></i></div>
-						<h3>We Have Skills</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua.
-						</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="service-item">
-						<div class="icon"><i class="fa fa-life-ring"></i></div>
-						<h3>We Love To Help</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam.
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+
 	<!-- Services section end -->
 	<!-- Portfolio section start -->
 	<section id="portfolio" class="darker">
 		<div class="container">
 			<header>
-				<h2>Success Stories</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor.
+				<h2>Softwares da Industria 4.0</h2>
+				<p>Conheça os projetos alcançados pela WBA
 				</p>
 			</header>
 			<div id="single-project"></div>
 			<div class="row">
-				<figure class="portfolio-item col-md-4 col-sm-6" >
-					<img class="img-responsive" src="img/projects/project-thumbnail-1.png" alt="Adena icons pack" />
-					<figcaption class="mask">
-						<a href="projects/project-1.html">
-							<i class="glyphicon glyphicon-plus"></i>
-						</a>
-					</figcaption>
-				</figure>
-				<figure class="portfolio-item col-md-4 col-sm-6" >
-					<img class="img-responsive" src="img/projects/project-thumbnail-1.png" alt="Adena icons pack" />
-					<figcaption class="mask">
-						<a href="projects/project-1.html">
-							<i class="glyphicon glyphicon-plus"></i>
-						</a>
-					</figcaption>
-				</figure>
-				<figure class="portfolio-item col-md-4 col-sm-6" >
-					<img class="img-responsive" src="img/projects/project-thumbnail-1.png" alt="Adena icons pack" />
-					<figcaption class="mask">
-						<a href="projects/project-1.html">
-							<i class="glyphicon glyphicon-plus"></i>
-						</a>
-					</figcaption>
-				</figure>
 				<figure class="portfolio-item col-md-4 col-sm-6" >
 					<img class="img-responsive" src="img/projects/project-thumbnail-1.png" alt="Adena icons pack" />
 					<figcaption class="mask">
