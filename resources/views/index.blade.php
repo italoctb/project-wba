@@ -159,28 +159,28 @@
 	<section id="contact">
 		<div class="container">
 			<header>
-				<h2>Get in Touch</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore.
+				<h2>Nossos contatos</h2>
+				<p>Entre em contato conosco
 				</p>
 			</header>
-
-					<address>
+			<div class="row">
+					<address class="col-md-4">
 						<span>Our Address</span>
 						<p>
 							4896 Desert Broom Court<br>
 							Newark, NJ 07102<br>
-							United States
+							Alemanha
 						</p>
 					</address>
-					<address>
+					<address class="col-md-4">
 						<span>Email</span>
-						<p>mail@mail.com</p>
+						<p>w.boos@werkzeugbau-akademie.de</p>
 					</address>
-					<address>
+					<address class="col-md-4">
 						<span>Phone</span>
-						<p>+00 123-456-78900</p>
+						<p>+49 241 99016302</p>
 					</address>
+				</div>
 				</div>
 			</div>
 		</div>
