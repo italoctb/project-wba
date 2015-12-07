@@ -32,7 +32,7 @@ section header{
 }
 
 p{
-	color: #808080;
+	color: rgba(51, 51, 51, 0.84);
 }
 
 address{
@@ -45,7 +45,7 @@ address span{
 	margin-bottom: 25px;
 	font-size: 20px;
 	display: inline-block;
-
+  color: rgb(0, 108, 182);
 }
 
 a{
@@ -143,6 +143,7 @@ a:focus{
 	background: url('../img/bg.jpg');
 	background-size: cover;
 	color: #fff;
+  margin-bottom: 50px;
 }
 
 .jumbotron .mask{
@@ -404,12 +405,17 @@ ul.social-icons > li > a{
 }
 
 #portfolio {
-  background-color: rgb(232, 245, 255);
+ background-color: #F7F7F7;
 }
 
-.jumbotron {
-  margin-bottom: 0px;
+#portfolio h2 {
+  color: rgb(0, 108, 182);
 }
+
+#contact h2 {
+  color: rgb(0, 108, 182);
+}
+
 
 @media screen and (min-width: 768px){
 
