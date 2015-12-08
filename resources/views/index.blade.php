@@ -125,11 +125,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8">
-					<p id="wba-license"><a href="http://www.werkzeugbau-akademie.de/en/">Werkzeugbau Akademie</a> &copy; Todos os direitos reservados.</p>
-					<p id="urbbox-merchan">Desenvolvido por &copy;<a href="http://www.urbbox.com.br/">Urbbox</a></p>
+					<p id="wba-license"><a href="http://www.werkzeugbau-akademie.de/en/" target="_blank">Werkzeugbau Akademie</a> &copy; Todos os direitos reservados.</p>
+					<p id="urbbox-merchan">Desenvolvido por <a href="http://www.urbbox.com.br/" target="_blank">Urbbox</a></p>
 				</div>
 				<div class="col-md-4 logo-urbbox">
-						<a href="http://www.urbbox.com.br/"><img src ="img/logo-urbbox.png"/></a>
+						<a href="http://www.urbbox.com.br/" target="_blank"><img src ="img/logo-urbbox.png"/></a>
 				</div>
 			</div>
 		</div>

@@ -376,7 +376,7 @@ form{
 
 footer{
 	padding: 75px 0;
-	background-color: #222;
+	background-color: #333;
 	color: #fff;
 }
 
@@ -417,8 +417,13 @@ ul.social-icons > li > a{
   color: rgb(0, 108, 182);
 }
 
+.logo-urbbox {
+	padding-left: 150px;
+}
+
 .logo-urbbox a img{
 	width: 220px;
+
 }
 
 
