@@ -74,7 +74,7 @@ a:focus{
 .menu{
 	width: 300px;
 	display: block;
-	background: #333;
+	background: #222;
 	height: 100%;
 	top: 0;
 	right: -300px;
@@ -140,7 +140,7 @@ a:focus{
 .jumbotron{
 	text-align: center;
 	position: relative;
-	background: url('../img/bg.jpg');
+	background: url('../img/bg.png');
 	background-size: cover;
 	color: #fff;
   margin-bottom: 50px;
@@ -162,7 +162,7 @@ a:focus{
 }
 
 .jumbotron .container{
-	margin-top: 20%;
+	margin-top: 23%;
 }
 
 .jumbotron h1{
@@ -327,17 +327,17 @@ PORTFOLIO
 }
 
 .btn-primary{
-	background: #fa5c58;
+	background: #006CB6;
 	border-width: 2px;
 	color: #fff;
-	border-color: #fa5c58;
+	border-color: #03548C;
 }
 
-.btn-primary:hover,
+
 .btn-primary:focus{
 	background: #fff;
-	color: #fa5c58;
-	border-color: #fe4a46;
+	color: #006CB6;
+  border-color: #006CB6;
 }
 
 
@@ -375,7 +375,7 @@ form{
 
 footer{
 	padding: 75px 0;
-	background-color: #333;
+	background-color: #222;
 	color: #fff;
 }
 
@@ -421,6 +421,6 @@ ul.social-icons > li > a{
 
 	.jumbotron h1,
 	.jumbotron .h1 {
-		font-size: 75px;
+		font-size: 55px;
 	}
 }

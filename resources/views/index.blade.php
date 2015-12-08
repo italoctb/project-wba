@@ -34,25 +34,17 @@
 			<h3>Menu</h3>
 			<ul class="nav">
 				<li><a data-scroll href="#home">Home</a></li>
-				<li><a data-scroll href="#services">Service</a></li>
 				<li><a data-scroll href="#portfolio">Portfolio</a></li>
 				<li><a data-scroll href="#contact">Contact</a></li>
 			</ul>
-			<ul class="social-icons">
-				<li><a href=""><i class="fa fa-facebook"></i></a></li>
-				<li><a href=""><i class="fa fa-twitter"></i></a></li>
-				<li><a href=""><i class="fa fa-dribbble"></i></a></li>
-				<li><a href=""><i class="fa fa-behance"></i></a></li>
-				<li><a href=""><i class="fa fa-pinterest"></i></a></li>
-			</ul>
+			
 		</nav>
-		<div class="container">
+		<div class="container" id ="header-phrase">
 			<div class="header-info">
-				<h1>Moderno</h1>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,<br> sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua.
+				<h1>Werkzeugbau Akademie</h1>
+				<p>Otimização industrial fácil e rápido.
 				</p>
-				<a href="#" class="btn btn-primary">Get in Touche</a>
+				<a href="#portfolio" class="btn btn-primary">Saiba mais</a>
 			</div>
 		</div>
 	</div>
