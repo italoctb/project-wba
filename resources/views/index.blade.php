@@ -9,7 +9,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Moredno Html theme by GraphBerry.com</title>
+	<title>Werkzeugbau Akademie portefeuille</title>
 
 	<!-- Load fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
@@ -37,7 +37,7 @@
 				<li><a data-scroll href="#portfolio">Portfolio</a></li>
 				<li><a data-scroll href="#contact">Contact</a></li>
 			</ul>
-			
+
 		</nav>
 		<div class="container" id ="header-phrase">
 			<div class="header-info">
@@ -64,7 +64,7 @@
 				<figure class="portfolio-item col-md-4 col-sm-6" >
 					<img class="img-responsive" src="img/projects/project-thumbnail-1.png" alt="Adena icons pack" />
 					<figcaption class="mask">
-						<a href="projects/project-1.html">
+						<a href="projects/description-1.html">
 							<i class="glyphicon glyphicon-plus"></i>
 						</a>
 					</figcaption>
@@ -72,7 +72,7 @@
 				<figure class="portfolio-item col-md-4 col-sm-6" >
 					<img class="img-responsive" src="img/projects/project-thumbnail-1.png" alt="Adena icons pack" />
 					<figcaption class="mask">
-						<a href="projects/project-1.html">
+						<a href="projects/description-2.html">
 							<i class="glyphicon glyphicon-plus"></i>
 						</a>
 					</figcaption>
@@ -80,7 +80,7 @@
 				<figure class="portfolio-item col-md-4 col-sm-6" >
 					<img class="img-responsive" src="img/projects/project-thumbnail-1.png" alt="Adena icons pack" />
 					<figcaption class="mask">
-						<a href="projects/project-1.html">
+						<a href="projects/description-3.html">
 							<i class="glyphicon glyphicon-plus"></i>
 						</a>
 					</figcaption>
@@ -125,10 +125,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8">
-					<p>&copy; 2015 Template by <a href="http://graphberry.com" target="_blank">GraphBerry</a></p>
+					<p id="wba-license"><a href="http://www.werkzeugbau-akademie.de/en/">Werkzeugbau Akademie</a> &copy; Todos os direitos reservados.</p>
+					<p id="urbbox-merchan">Desenvolvido por &copy;<a href="http://www.urbbox.com.br/">Urbbox</a></p>
 				</div>
-				<div class="col-md-4">
-
+				<div class="col-md-4 logo-urbbox">
+						<a href="http://www.urbbox.com.br/"><img src ="img/logo-urbbox.png"/></a>
 				</div>
 			</div>
 		</div>

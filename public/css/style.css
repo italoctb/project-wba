@@ -49,12 +49,13 @@ address span{
 }
 
 a{
-	color: #fa694e;
+	color: #006CB6;
+	font-style: italic;
 }
 
-a:hover,
-a:focus{
-	color: #FA4B2A;
+footer a:hover{
+	font-weight: bolder;
+	text-decoration: none;
 }
 
 .logo{
@@ -414,6 +415,10 @@ ul.social-icons > li > a{
 
 #contact h2 {
   color: rgb(0, 108, 182);
+}
+
+.logo-urbbox a img{
+	width: 220px;
 }
 
 
