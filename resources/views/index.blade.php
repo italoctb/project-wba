@@ -42,9 +42,9 @@
 		<div class="container" id ="header-phrase">
 			<div class="header-info">
 				<h1>Werkzeugbau Akademie</h1>
-				<p>Otimização industrial fácil e rápido.
+				<p>*Description.
 				</p>
-				<a href="#portfolio" class="btn btn-primary">Saiba mais</a>
+				<a href="#portfolio" class="btn btn-primary">Learn more</a>
 			</div>
 		</div>
 	</div>
@@ -55,38 +55,59 @@
 	<section id="portfolio" class="darker">
 		<div class="container">
 			<header>
-				<h2>Softwares da Industria 4.0</h2>
-				<p>Conheça os projetos alcançados pela WBA
+				<h2>*Apresentation</h2>
+				<p>*Call
 				</p>
 			</header>
 			<div id="single-project"></div>
-			<div class="row">
-				<figure class="portfolio-item col-md-4 col-sm-6" >
-					<img class="img-responsive" src="img/projects/project-thumbnail-1.png" alt="Adena icons pack" />
-					<figcaption class="mask">
-						<a href="projects/description-1.html">
-							<i class="glyphicon glyphicon-plus"></i>
-						</a>
-					</figcaption>
-				</figure>
-				<figure class="portfolio-item col-md-4 col-sm-6" >
-					<img class="img-responsive" src="img/projects/project-thumbnail-1.png" alt="Adena icons pack" />
-					<figcaption class="mask">
-						<a href="projects/description-2.html">
-							<i class="glyphicon glyphicon-plus"></i>
-						</a>
-					</figcaption>
-				</figure>
-				<figure class="portfolio-item col-md-4 col-sm-6" >
-					<img class="img-responsive" src="img/projects/project-thumbnail-1.png" alt="Adena icons pack" />
-					<figcaption class="mask">
-						<a href="projects/description-3.html">
-							<i class="glyphicon glyphicon-plus"></i>
-						</a>
-					</figcaption>
-				</figure>
+				<div class="project">
+					<div class="row">
+						<div class="col-md-5">
+							<img src="img/projects/project-thumbnail-1.png" class="img-responsive">
+						</div>
+						<div class="col-md-7 project-info">
+							<h3>Project Name</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+									cillum dolore eu fugiat nulla pariatur.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="project">
+					<div class="row">
+						<div class="col-md-7 project-info" >
+							<h3>Project Name</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+									cillum dolore eu fugiat nulla pariatur.</p>
+						</div>
+						<div class="col-md-5 ">
+								<img src="img/projects/project-thumbnail-1.png" class="img-responsive"/>
+							</div>
+					</div>
+				</div>
+				<div class="project">
+					<div class="row">
+						<div class="col-md-5">
+							<img src="img/projects/project-thumbnail-1.png" class="img-responsive">
+						</div>
+						<div class="col-md-7 project-info">
+							<h3>Project Name</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+									cillum dolore eu fugiat nulla pariatur.
+							</p>
+						</div>
+					</div>
+				</div>
 			</div>
-		</div>
 	</section>
 	<!-- Portfolio section end -->
 	<!-- Contact section start -->
@@ -103,16 +124,16 @@
 						<p>
 							4896 Desert Broom Court<br>
 							Newark, NJ 07102<br>
-							Alemanha
+							Germany
 						</p>
 					</address>
 					<address class="col-md-4">
 						<span>Email</span>
-						<p>w.boos@werkzeugbau-akademie.de</p>
+						<p>email@werkzeugbau-akademie.de</p>
 					</address>
 					<address class="col-md-4">
 						<span>Phone</span>
-						<p>+49 241 99016302</p>
+						<p>+49 555 55555555</p>
 					</address>
 				</div>
 				</div>
@@ -125,8 +146,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8">
-					<p id="wba-license"><a href="http://www.werkzeugbau-akademie.de/en/" target="_blank">Werkzeugbau Akademie</a> &copy; Todos os direitos reservados.</p>
-					<p id="urbbox-merchan">Desenvolvido por <a href="http://www.urbbox.com.br/" target="_blank">Urbbox</a></p>
+					<p id="wba-license"><a href="http://www.werkzeugbau-akademie.de/en/" target="_blank">Werkzeugbau Akademie</a> &copy; All rights reserved.</p>
+					<p id="urbbox-merchan">Developed by <a href="http://www.urbbox.com.br/" target="_blank">Urbbox</a></p>
 				</div>
 				<div class="col-md-4 logo-urbbox">
 						<a href="http://www.urbbox.com.br/" target="_blank"><img src ="img/logo-urbbox.png"/></a>
@@ -135,6 +156,8 @@
 		</div>
 	</footer>
 	<!-- Footer end  -->
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+
 
 	<!-- Load jQuery -->
 	<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
@@ -148,5 +171,6 @@
 
 	<!-- Load custom js for theme -->
 	<script type="text/javascript" src="js/app.js"></script>
+
 </body>
 </html>

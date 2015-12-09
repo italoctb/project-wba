@@ -8,6 +8,7 @@
 body{
 	font-family: 'Montserrat', sans-serif;
 	font-size: 15px;
+
 }
 
 p, input, textarea{
@@ -20,10 +21,14 @@ SECTION
 section{
 	background-color: #fff;
 	padding: 70px 0;
-}
+
+	}
 
 section.darker{
 	background-color: #fbfbfb;
+	background-attachment: fixed;
+
+
 }
 
 section header{
@@ -220,8 +225,11 @@ SERVICES
 /****
 PORTFOLIO
 *****/
+.project h3{
+	color: #006CB6;
+}
 .project{
-	border: 1px solid #808080;
+	border: 1px none ;
 	margin-bottom: 70px;
 }
 
@@ -432,5 +440,10 @@ ul.social-icons > li > a{
 	.jumbotron h1,
 	.jumbotron .h1 {
 		font-size: 55px;
+	}
+	.logo-urbbox {
+		float: right;
+		padding-right: 50px;
+		display: inline-block;
 	}
 }
