@@ -66,7 +66,7 @@
 							<img src="img/projects/project-thumbnail-1.png" class="img-responsive">
 						</div>
 						<div class="col-md-7 project-info">
-							<h3>Project Name</h3>
+							<a href="../../kolloquium/public"><h3>Kolloquium</h3></a
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -79,7 +79,7 @@
 				<div class="project">
 					<div class="row">
 						<div class="col-md-7 project-info" >
-							<h3>Project Name</h3>
+							<a href="../../ida2/public"><h3>IDA 2</h3></a>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -97,7 +97,7 @@
 							<img src="img/projects/project-thumbnail-1.png" class="img-responsive">
 						</div>
 						<div class="col-md-7 project-info">
-							<h3>Project Name</h3>
+							<a href="http://wba-cockpit.werkzeugbau-akademie.com"><h3>Shopfloor Cockpit</h3></a>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
