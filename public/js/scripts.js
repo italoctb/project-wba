@@ -37,6 +37,12 @@ $(document).ready(function() {
 		prevNextButtons: false,
 		imagesLoaded: true
 	});
+	$('#showcaseSlider-ipad').flickity({
+		cellAlign: 'left',
+		contain: true,
+		prevNextButtons: false,
+		imagesLoaded: true
+	});
 
 	/***************** Fancybox ******************/
 

@@ -748,7 +748,7 @@ Features List
 Blockquote
 ========================================================================== */
 blockquote {
-    margin: 40px 0 0;
+
     padding: 0;
     border: none;
 }
@@ -809,6 +809,33 @@ Showcase
     width: 247px;
     height: 445px;
 }
+.device-ipad {
+    position: absolute;
+    top: 50px;
+    min-width: 1000px;
+    height: 600px;
+    background: url('../img/ipad-skeleton3.png') no-repeat center center;
+}
+.description-ipad {
+  padding-top: 700px;
+  padding-left: 50px;
+}
+.device-content-ipad {
+    position: absolute;
+    top: 68px;
+    left: 193px;
+    width: 615px;
+    height: 461px;
+    background: rgba(0, 0, 0, 0.3);
+    border-top: 4px solid;
+    border-bottom:4px solid;
+    border-left:2px solid;
+    border-right:2px solid;
+}
+.device-content-ipad img {
+    width: 615px;
+    height: 453px;
+}
 .showcase-wrap {
     position: relative;
     padding: 100px 0;
@@ -821,6 +848,17 @@ Showcase
 }
 .showcase-slider .flickity-page-dots {
     bottom: 20px;
+}
+.button-donwload-ipad{
+  padding-left: 150px;
+}
+@media screen and (max-width: 480px) {
+  .device-ipad {
+    display: none;
+  }
+  .description-ipad {
+    padding-top: 0px;
+  }
 }
 
 /* ==========================================================================

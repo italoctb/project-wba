@@ -187,6 +187,47 @@
 				</div>
 			</div>
 		</section>
+		<section class="showcase">
+			<div class="showcase-wrap">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="device-ipad wp3 bounceInDown">
+								<div class="device-content-ipad">
+									<div class="showcase-slider">
+										<ul class="slides" id="showcaseSlider-ipad">
+											<li>
+												<img src="img/screen1.jpg" alt="Device Content Image">
+											</li>
+											<li>
+												<img src="img/screen2.jpg" alt="Device Content Image">
+											</li>
+											<li>
+												<img src="img/screen3.jpg" alt="Device Content Image">
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							</div>
+						</div>
+						<div class="row description-ipad">
+						<div class="col-md-6">
+							<h1>Showcase your Product or Service</h1>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+						</div>
+							<div class="col-md-6 button-donwload-ipad">
+
+
+							<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Download! <i class="fa fa-download"></i></a>
+
+					</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
 
 		<section class="screenshots-intro">
 			<div class="container">
@@ -366,7 +407,7 @@
 		<script src="js/retina.js"></script>
 		<script src="js/waypoints.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-		<script src="js/min/scripts-min.js"></script>
+		<script src="js/scripts.js"></script>
 		<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 		<script>
 		(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
