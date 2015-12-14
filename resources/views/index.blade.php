@@ -193,7 +193,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6">
-							<div class="device-ipad wp3 bounceInDown">
+							<div class="device-ipad wp3-ipad">
 								<div class="device-content-ipad">
 									<div class="showcase-slider">
 										<ul class="slides" id="showcaseSlider-ipad">
