@@ -46,7 +46,7 @@
 		<!-- open/close -->
 		<header>
 			<section class="hero">
-				<div class="texture-overlay"></div>
+				<div class="texture-overlay-blue"></div>
 				<div class="container">
 					<div class="row nav-wrapper">
 						<div class="col-md-6 col-sm-6 col-xs-6 text-left">

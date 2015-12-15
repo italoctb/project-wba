@@ -20,7 +20,7 @@ $(document).ready(function() {
 	$('.wp3-ipad').waypoint(function() {
 		$('.wp3-ipad').addClass('animated bounceInDown');
 	}, {
-		offset: '75%'
+		offset: '101%'
 	});
 	$('.wp4').waypoint(function() {
 		$('.wp4').addClass('animated fadeInDown');
