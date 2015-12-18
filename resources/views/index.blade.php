@@ -50,7 +50,7 @@
 				<div class="container">
 					<div class="row nav-wrapper">
 						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
-							<a href="#"><img src="img/logo-white.png" alt="Boxify Logo"></a>
+							<a href="#"><img src="img/logo-white.png" alt="WBALogo"></a>
 						</div>
 						<div class="col-md-6 col-sm-6 col-xs-6 text-right navicon">
 							<p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
@@ -69,7 +69,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<h1><a href="http://www.youtube.com/embed/9No-FiEInLA?autoplay=1&wmode=opaque&fs=1" class="youtube-media"><i class="fa fa-play-circle-o"></i> Watch the Video</a></h1>
+						<h1><a href="http://www.youtube.com/embed/GlOAUzcx4Lk?autoplay=1&wmode=opaque&fs=1" class="youtube-media"><i class="fa fa-play-circle-o"></i> The future of Manufacture</a></h1>
 					</div>
 				</div>
 			</div>
@@ -91,6 +91,7 @@
 									<li>
 										<h1>Innovative Ideas</h1>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+
 									</li>
 									<li>
 										<h1>Mobile apps</h1>
@@ -116,7 +117,7 @@
 								<i class="fa fa-desktop"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Responsive</h1>
+								<h1>Software Based</h1>
 								<p>Built using HTML5/CSS3 and jQuery, and built using one of the world's most powerful CSS frameworks available, Bootstrap.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Read More <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
@@ -126,7 +127,7 @@
 								<i class="fa fa-flash"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Multi-Purpose</h1>
+								<h1>Agile Developement</h1>
 								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Read More <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
@@ -136,7 +137,7 @@
 								<i class="fa fa-heart"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Absolutely Free</h1>
+								<h1>Fast Feedback</h1>
 								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Read More <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
@@ -171,7 +172,7 @@
 							</div>
 						</div>
 						<div class="col-md-6">
-							<h1>Showcase your Product or Service</h1>
+							<h1>Kolloquium</h1>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
 							<blockquote class="team-quote">
 								<div class="avatar"><img src="img/avatar.png" alt="User Avatar"></div>
@@ -180,7 +181,55 @@
 									<a href="http://tympanus.net/codrops/"><img src="img/codrops-logo.png" alt="Codrops Logo"></a>
 								</div>
 							</blockquote>
-							<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Download! <i class="fa fa-download"></i></a>
+							<a href="../../kolloquium/public" class="download-btn">Demo <i class="fa fa-download"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="screenshots-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Packed Full of Powerful Features</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+						<p><a href="#screenshots" class="arrow-btn">See the screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+		<section class="showcase">
+			<div class="showcase-wrap">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="device-ipad wp5">
+								<div class="device-content">
+									<div class="showcase-slider">
+										<ul class="slides" id="showcaseSlider">
+											<li>
+												<img src="img/screen1.jpg" alt="Device Content Image">
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<h1>Kolloquium</h1>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+							<blockquote class="team-quote">
+								<div class="avatar"><img src="img/avatar.png" alt="User Avatar"></div>
+								<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc." - Peter Finlan</p>
+								<div class="logo-quote">
+									<a href="http://tympanus.net/codrops/"><img src="img/codrops-logo.png" alt="Codrops Logo"></a>
+								</div>
+							</blockquote>
+							<a href="../../kolloquium/public" class="download-btn">Demo <i class="fa fa-download"></i></a>
 						</div>
 					</div>
 				</div>
