@@ -660,6 +660,14 @@ Custom Slider Controls (Flickity)
     background: white;
 }
 
+.feature-content{
+    text-align: center;
+
+}
+.feature-content img{
+
+    margin-bottom: 31px;
+}
 /* ==========================================================================
 Features Slider
 ========================================================================== */
