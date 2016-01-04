@@ -46,7 +46,7 @@
 		<!-- open/close -->
 		<header>
 			<section class="hero">
-				<div class="texture-overlay"></div>
+				<div class="texture-overlay-blue"></div>
 				<div class="container">
 					<div class="row nav-wrapper">
 						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
@@ -171,6 +171,7 @@
 								</div>
 							</div>
 						</div>
+
 						<div class="col-md-6">
 							<h1>Kolloquium</h1>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
@@ -236,6 +237,7 @@
 			</div>
 		</section>
 
+
 		<section class="screenshots-intro">
 			<div class="container">
 				<div class="row">
@@ -243,6 +245,46 @@
 						<h1>Packed Full of Powerful Features</h1>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
 						<p><a href="#screenshots" class="arrow-btn">See the screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="showcase">
+			<div class="showcase-wrap">
+				{{-- <div class="texture-overlay"></div> --}}
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="device-ipad wp3-ipad">
+								<div class="device-content-ipad">
+									<div class="showcase-slider">
+										<ul class="slides" id="showcaseSlider-ipad">
+											<li>
+												<img src="img/screen1.jpg" alt="Device Content Image">
+											</li>
+											<li>
+												<img src="img/screen2.jpg" alt="Device Content Image">
+											</li>
+											<li>
+												<img src="img/screen3.jpg" alt="Device Content Image">
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="screenshots-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Packed Full of Powerful Features</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+						<p><a href="#screenshots" class="arrow-btn">See the screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
+						<a href="itms-services://?action=download-manifest&url=https://wba-urbbox.herokuapp.com/applications/download/0" target="_blank" class="download-btn">Download! <i class="fa fa-download"></i></a>
 					</div>
 				</div>
 			</div>
@@ -414,7 +456,7 @@
 		<script src="js/retina.js"></script>
 		<script src="js/waypoints.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-		<script src="js/min/scripts-min.js"></script>
+		<script src="js/scripts.js"></script>
 		<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 		<script>
 		(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
