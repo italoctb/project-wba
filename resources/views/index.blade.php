@@ -74,7 +74,7 @@
 								<img src="/img/cockpit_icon.png"/>
 								<h1>Cockpit</h1>
 								<p>Built using HTML5/CSS3 and jQuery, and built using one of the world's most powerful CSS frameworks available, Bootstrap.</p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/cockpit/manifest.plist" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
@@ -82,7 +82,7 @@
 								<img src="/img/7w_icon.png"/>
 								<h1>7W Capture</h1>
 								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/7w/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
@@ -90,7 +90,7 @@
 								<img src="/img/ida_icon.png"/>
 								<h1>IDA </h1>
 								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/ida/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 
@@ -108,7 +108,7 @@
 								<img src="/img/wba_icon.png"/>
 								<h1>Wba Jahrestreffen</h1>
 								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/jahrestreffen/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-6 feature-6 wp2" style="text-align: center;">
@@ -116,7 +116,7 @@
 								<img src="/img/kolloquium_icon.png"/>
 								<h1>Werkzeugbau Kolloquium</h1>
 								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/wmz/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 					</div>
