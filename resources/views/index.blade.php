@@ -187,9 +187,22 @@
 				</div>
 			</div>
 		</section>
+
+
+		<section class="screenshots-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Packed Full of Powerful Features</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+						<p><a href="#screenshots" class="arrow-btn">See the screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
+					</div>
+				</div>
+			</div>
+		</section>
 		<section class="showcase">
 			<div class="showcase-wrap">
-				<div class="texture-overlay"></div>
+				{{-- <div class="texture-overlay"></div> --}}
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6">
@@ -210,25 +223,11 @@
 									</div>
 								</div>
 							</div>
-							</div>
 						</div>
-						<div class="row description-ipad">
-						<div class="col-md-6">
-							<h1>Showcase your Product or Service</h1>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-						</div>
-							<div class="col-md-6 button-donwload-ipad">
-
-
-							<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Download! <i class="fa fa-download"></i></a>
-
-					</div>
-
 					</div>
 				</div>
 			</div>
 		</section>
-
 		<section class="screenshots-intro">
 			<div class="container">
 				<div class="row">
@@ -236,6 +235,7 @@
 						<h1>Packed Full of Powerful Features</h1>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
 						<p><a href="#screenshots" class="arrow-btn">See the screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
+						<a href="itms-services://?action=download-manifest&url=https://wba-urbbox.herokuapp.com/applications/download/0" target="_blank" class="download-btn">Download! <i class="fa fa-download"></i></a>
 					</div>
 				</div>
 			</div>
