@@ -59,7 +59,7 @@
 					<div class="row hero-content">
 						<div class="col-md-12">
 							<h1 class="animated fadeInDown">Software for industry</h1>
-						    <a href="#about" class="learn-btn animated fadeInUp">Learn more <i class="fa fa-arrow-down"></i></a>
+						    <a href="#features" class="learn-btn animated fadeInUp">Learn more <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
 				</div>
