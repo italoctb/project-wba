@@ -70,30 +70,24 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="col-md-4 feature-1 wp2">
-							<div class="feature-icon">
-								<i class="fa fa-desktop"></i>
-							</div>
 							<div class="feature-content">
+								<img src="/img/cockpit_icon.png"/>
 								<h1>Cockpit</h1>
 								<p>Built using HTML5/CSS3 and jQuery, and built using one of the world's most powerful CSS frameworks available, Bootstrap.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Read More <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2">
-							<div class="feature-icon">
-								<i class="fa fa-flash"></i>
-							</div>
 							<div class="feature-content">
+								<img src="/img/7w_icon.png"/>
 								<h1>7W Capture</h1>
 								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2">
-							<div class="feature-icon">
-								<i class="fa fa-flash"></i>
-							</div>
 							<div class="feature-content">
+								<img src="/img/ida_icon.png"/>
 								<h1>IDA </h1>
 								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
@@ -110,20 +104,17 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="col-md-6 feature-5 wp2 ">
-							<div class="feature-icon">
-								<i class="fa fa-heart"></i>
-							</div>
+							
 							<div class="feature-content">
+								<img src="/img/wba_icon.png"/>
 								<h1>Wba Jahrestreffen</h1>
 								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-6 feature-6 wp2">
-							<div class="feature-icon">
-								<i class="fa fa-heart"></i>
-							</div>
 							<div class="feature-content">
+								<img src="/img/kolloquium_icon.png"/>
 								<h1>Werkzeugbau Kolloquium</h1>
 								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Read More <i class="fa fa-chevron-circle-right"></i></a>
@@ -212,274 +203,6 @@
 							</div>
 						</div>
 
-					</div>
-				</div>
-			</div>
-		</section>
-		<section class="showcase">
-			<div class="showcase-wrap">
-				<div class="texture-overlay"></div>
-				<div class="container">
-					<div class="row">
-						<div class="col-md-6">
-							<div class="device wp3">
-								<div class="device-content">
-									<div class="showcase-slider">
-										<ul class="slides" id="showcaseSlider">
-											<li>
-												<img src="img/screen1.jpg" alt="Device Content Image">
-											</li>
-											<li>
-												<img src="img/screen2.jpg" alt="Device Content Image">
-											</li>
-											<li>
-												<img src="img/screen3.jpg" alt="Device Content Image">
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-md-6">
-							<h1>Kolloquium</h1>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-							<blockquote class="team-quote">
-								<div class="avatar"><img src="img/avatar.png" alt="User Avatar"></div>
-								<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc." - Peter Finlan</p>
-								<div class="logo-quote">
-									<a href="http://tympanus.net/codrops/"><img src="img/codrops-logo.png" alt="Codrops Logo"></a>
-								</div>
-							</blockquote>
-							<a href="../../kolloquium/public" class="download-btn">Demo <i class="fa fa-download"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-
-		<section class="screenshots-intro">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<h1>Packed Full of Powerful Features</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-						<p><a href="#screenshots" class="arrow-btn">See the screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
-					</div>
-				</div>
-			</div>
-		</section>
-
-
-		<section class="showcase">
-			<div class="showcase-wrap">
-				<div class="texture-overlay"></div>
-				<div class="container">
-					<div class="row">
-						<div class="col-md-6">
-							<div class="device-ipad wp5">
-								<div class="device-content">
-									<div class="showcase-slider">
-										<ul class="slides" id="showcaseSlider">
-											<li>
-												<img src="img/screen1.jpg" alt="Device Content Image">
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<h1>Kolloquium</h1>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-							<blockquote class="team-quote">
-								<div class="avatar"><img src="img/avatar.png" alt="User Avatar"></div>
-								<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc." - Peter Finlan</p>
-								<div class="logo-quote">
-									<a href="http://tympanus.net/codrops/"><img src="img/codrops-logo.png" alt="Codrops Logo"></a>
-								</div>
-							</blockquote>
-							<a href="../../kolloquium/public" class="download-btn">Demo <i class="fa fa-download"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-
-
-		<section class="screenshots-intro">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<h1>Packed Full of Powerful Features</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-						<p><a href="#screenshots" class="arrow-btn">See the screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
-					</div>
-				</div>
-			</div>
-		</section>
-		<section class="showcase">
-			<div class="showcase-wrap">
-				{{-- <div class="texture-overlay"></div> --}}
-				<div class="container">
-					<div class="row">
-						<div class="col-md-6">
-							<div class="device-ipad wp3-ipad">
-								<div class="device-content-ipad">
-									<div class="showcase-slider">
-										<ul class="slides" id="showcaseSlider-ipad">
-											<li>
-												<img src="img/screen1.jpg" alt="Device Content Image">
-											</li>
-											<li>
-												<img src="img/screen2.jpg" alt="Device Content Image">
-											</li>
-											<li>
-												<img src="img/screen3.jpg" alt="Device Content Image">
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<section class="screenshots-intro">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<h1>Packed Full of Powerful Features</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-						<p><a href="#screenshots" class="arrow-btn">See the screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
-						<a href="itms-services://?action=download-manifest&url=https://wba-urbbox.herokuapp.com/applications/download/0" target="_blank" class="download-btn">Download! <i class="fa fa-download"></i></a>
-					</div>
-				</div>
-			</div>
-		</section>
-		<section class="screenshots" id="screenshots">
-			<div class="container-fluid">
-				<div class="row">
-					<ul class="grid">
-						<li>
-							<figure>
-								<img src="img/01-screenshot.jpg" alt="Screenshot 01">
-								<figcaption>
-								<div class="caption-content">
-									<a href="img/large/01.jpg" class="single_image">
-										<i class="fa fa-search"></i><br>
-										<p>Optimised For Design</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-						<li>
-							<figure>
-								<img src="img/02-screenshot.jpg" alt="Screenshot 01">
-								<figcaption>
-								<div class="caption-content">
-									<a href="img/large/02.jpg" class="single_image">
-										<i class="fa fa-search"></i><br>
-										<p>User Centric Design</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-						<li>
-							<figure>
-								<img src="img/03-screenshot.jpg" alt="Screenshot 01">
-								<figcaption>
-								<div class="caption-content">
-									<a href="img/large/03.jpg" class="single_image">
-										<i class="fa fa-search"></i><br>
-										<p>Responsive and Adaptive</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-						<li>
-							<figure>
-								<img src="img/04-screenshot.jpg" alt="Screenshot 01">
-								<figcaption>
-								<div class="caption-content">
-									<a href="img/large/04.jpg" class="single_image">
-										<i class="fa fa-search"></i><br>
-										<p>Absolutely Free</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-				<div class="row">
-					<ul class="grid">
-						<li>
-							<figure>
-								<img src="img/05-screenshot.jpg" alt="Screenshot 01">
-								<figcaption>
-								<div class="caption-content">
-									<a href="img/large/05.jpg" class="single_image">
-										<i class="fa fa-search"></i><br>
-										<p>Multi-Purpose Design</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-						<li>
-							<figure>
-								<img src="img/06-screenshot.jpg" alt="Screenshot 01">
-								<figcaption>
-								<div class="caption-content">
-									<a href="img/large/06.jpg" class="single_image">
-										<i class="fa fa-search"></i><br>
-										<p>Exclusive to Codrops</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-						<li>
-							<figure>
-								<img src="img/07-screenshot.jpg" alt="Screenshot 01">
-								<figcaption>
-								<div class="caption-content">
-									<a href="img/large/07.jpg" class="single_image">
-										<i class="fa fa-search"></i><br>
-										<p>Made with Love</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-						<li>
-							<figure>
-								<img src="img/08-screenshot.jpg" alt="Screenshot 01">
-								<figcaption>
-								<div class="caption-content">
-									<a href="img/large/08.jpg" class="single_image">
-										<i class="fa fa-search"></i><br>
-										<p>In Sydney, Australia</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</section>
-		<section class="download" id="download">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12 text-center wp4">
-						<h1>Seen Enough?</h1>
-						<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Download! <i class="fa fa-download"></i></a>
 					</div>
 				</div>
 			</div>
