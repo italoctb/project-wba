@@ -58,7 +58,7 @@
 					</div>
 					<div class="row hero-content">
 						<div class="col-md-12">
-							<h1 class="animated fadeInDown">Software for industry</h1>
+							<h1 class="animated fadeInDown">Apps for industry</h1>
 						    <a href="#features" class="learn-btn animated fadeInUp">Learn more <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
@@ -99,7 +99,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="features-list" id="features">
+		<section class="features-list">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -169,18 +169,16 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="col-md-5">
+					<div class="col-md-9">
 						<h1 class="footer-logo">
 						<img src="img/logo-blue.png" alt="Footer Logo Blue">
 						</h1>
 						<p>© WBA 2016 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.urbbox.com.br/">Urbbox</a></p>
 					</div>
-					<div class="col-md-7">
+					<div class=" col-sm-3">
 						<ul class="footer-nav">
+							<li><a href="#features">Apps</a></li>
 							<li><a href="#about">About</a></li>
-							<li><a href="#features">Features</a></li>
-							<li><a href="#screenshots">Screenshots</a></li>
-							<li><a href="#download">Download</a></li>
 						</ul>
 					</div>
 				</div>
@@ -189,12 +187,9 @@
 		<div class="overlay overlay-boxify">
 			<nav>
 				<ul>
+					
+					<li><a href="#features"><i class="fa fa-download"></i>Apps</a></li>
 					<li><a href="#about"><i class="fa fa-heart"></i>About</a></li>
-					<li><a href="#features"><i class="fa fa-flash"></i>Features</a></li>
-				</ul>
-				<ul>
-					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Screenshots</a></li>
-					<li><a href="#download"><i class="fa fa-download"></i>Download</a></li>
 				</ul>
 			</nav>
 		</div>
