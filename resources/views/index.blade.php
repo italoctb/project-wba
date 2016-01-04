@@ -65,7 +65,7 @@
 				</div>
 			</section>
 		</header>
-		<section class="features-list" id="features">
+		<section class="features-list" style="padding-bottom: 0"id="features">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
