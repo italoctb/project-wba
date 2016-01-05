@@ -449,10 +449,10 @@ p {
     line-height: 25px;
 }
 a {
-    color: #3f6184
+    color: #73d0da
 }
 a:hover, a:focus {
-    color: #3f6184;
+    color: #73d0da;
     text-decoration: none;
 }
 .texture-overlay-blue {
@@ -485,7 +485,7 @@ Buttons
     font-size: 16px;
 }
 .use-btn:hover, .use-btn:focus {
-    background-color: #3f6184;
+    background-color: #73d0da;
     color: #fff;
     text-decoration: none;
 }
@@ -498,8 +498,8 @@ Buttons
     font-size: 16px;
 }
 .learn-btn:hover, .download-btn:hover, .learn-btn:focus, .download-btn:focus {
-    border-color: #3f6184;
-    color: #3f6184;
+    border-color: #73d0da;
+    color: #73d0da;
     text-decoration: none;
 }
 .read-more-btn {
@@ -637,11 +637,11 @@ section.video a {
     color: #323a45
 }
 section.video a:hover, section.video a:focus {
-    color: #3f6184;
+    color: #73d0da;
     text-decoration: none;
 }
 section.video a:hover i, section.video a:focus i {
-    color: #3f6184
+    color: #73d0da
 }
 
 /* ==========================================================================
@@ -660,7 +660,7 @@ Custom Slider Controls (Flickity)
     background: white;
 }
 
-.okure-content{
+.feature-content{
     text-align: center;
 
 }
@@ -727,7 +727,7 @@ Features Slider
 Features List
 ========================================================================== */
 .features-list {
-    padding: 130px 0
+    padding: 0px 0
 }
 .features-list h1 {
     margin: 0 0 10px 0;
@@ -951,7 +951,7 @@ Screenshots
     color: #fff
 }
 .screenshots figcaption a:hover, .screenshots figcaption a:focus {
-    color: #3f6184
+    color: #73d0da
 }
 .screenshots figure:hover figcaption, .screenshots figure:focus figcaption {
     opacity: 1
@@ -1090,8 +1090,8 @@ Nav Overlay
     transition: all 300ms ease-in-out;
 }
 .overlay ul li a:hover, .overlay ul li a:focus {
-    border-color: #3f6184;
-    color: #3f6184;
+    border-color: #73d0da;
+    color: #73d0da;
 }
 
 /* Effects */
