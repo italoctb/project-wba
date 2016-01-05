@@ -65,6 +65,7 @@
 				</div>
 			</section>
 		</header>
+		<section style="padding:130px 0;">
 		<section class="features-list" style="padding-bottom: 0"id="features">
 			<div class="container">
 				<div class="row">
@@ -101,16 +102,20 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<div class="col-md-6 feature-5 wp2 " style="text-align: center;">
+						<div class="col-md-6 feature-2 wp2 " style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/wba_icon.png"/>
 								<h1>Wba Jahrestreffen</h1>
 								<p>App zum WBA Jahrestreffen 2015.</p>
+<<<<<<< HEAD
 								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.com/download/apps/jahrestreffen/manifest.plist" class="read-more-btn">Download 
+=======
+								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/jahrestreffen/manifest.plist" class="read-more-btn">Download 
+>>>>>>> 0bbcfd714b969b9250954f838971b0557ca89037
 									<i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
-						<div class="col-md-6 feature-6 wp2" style="text-align: center;">
+						<div class="col-md-6 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/kolloquium_icon.png"/>
 								<h1>Kolloquium Werkzeugbau mit Zukunft</h1>
@@ -122,9 +127,9 @@
 				
 				</div>
 			</div>
-			<!--
 		</section>
-		<section class="video" id="about">
+	</section>
+		<!--<section class="video" id="about">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
