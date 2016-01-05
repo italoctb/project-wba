@@ -58,8 +58,8 @@
 					</div>
 					<div class="row hero-content">
 						<div class="col-md-12">
-							<h1 class="animated fadeInDown">Apps for industry</h1>
-						    <a href="#features" class="learn-btn animated fadeInUp">Learn more <i class="fa fa-arrow-down"></i></a>
+							<h1 class="animated fadeInDown">Apps für den Werkzeugbau</h1>
+						    <a href="#features" class="learn-btn animated fadeInUp">Mehr erfahren <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
 				</div>
@@ -72,8 +72,8 @@
 						<div class="col-md-4 feature-1 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/cockpit_icon.png"/>
-								<h1>Cockpit</h1>
-								<p>Built using HTML5/CSS3 and jQuery, and built using one of the world's most powerful CSS frameworks available, Bootstrap.</p>
+								<h1>Shopfloor Cockpit</h1>
+								<p>App zur Visualisierung der Fertigungsaufträge und Zeiterfassung.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
@@ -81,15 +81,15 @@
 							<div class="feature-content">
 								<img src="/img/7w_icon.png"/>
 								<h1>7W Capture</h1>
-								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
+								<p>App zur Fehlerdokumentation entwickelt für die Firma Siebenwurst.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/ida_icon.png"/>
-								<h1>IDA </h1>
-								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
+								<h1>IDA 2.0</h1>
+								<p>Information Digitalization Application.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
@@ -107,15 +107,15 @@
 							<div class="feature-content">
 								<img src="/img/wba_icon.png"/>
 								<h1>Wba Jahrestreffen</h1>
-								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
+								<p>App zum WBA Jahrestreffen 2015.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-6 feature-6 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/kolloquium_icon.png"/>
-								<h1>Werkzeugbau Kolloquium</h1>
-								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
+								<h1>Kolloquium Werkzeugbau mit Zukunft</h1>
+								<p>App zum Kolloquium Werkzeugbau mit Zukunft 2015.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
@@ -123,6 +123,7 @@
 				
 				</div>
 			</div>
+			<!--
 		</section>
 		<section class="video" id="about">
 			<div class="container">
@@ -133,6 +134,7 @@
 				</div>
 			</div>
 		</section>
+		-->
 		<section class="features-intro">
 			<div class="container-fluid">
 				<div class="row">
@@ -148,12 +150,12 @@
 						<div class="features-slider">
 								<ul class="slides" id="featuresSlider">
 									<li>
-										<h1>Innovative Ideas</h1>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+										<h1>Transparenz in der Produktion</h1>
+										<p>Durch die gezielte Visualisierung von Produktionsdaten können Entscheidungen effizienter getroffen werden.</p>
 
 									</li>
 									<li>
-										<h1>Mobile apps</h1>
+										<h1>Effizienzsteigerung</h1>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
 									</li>
 									<li>
