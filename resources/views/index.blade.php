@@ -170,6 +170,7 @@
 						<ul class="footer-nav">
 							<li><a href="#features">Apps</a></li>
 							<li><a href="#about">About</a></li>
+							<li><a href="{{ url('auth/logout') }}">Sign out</a></li>
 						</ul>
 					</div>
 				</div>
@@ -180,20 +181,22 @@
 				<ul>
 					
 					<li><a href="#features"><i class="fa fa-download"></i>Apps</a></li>
-					<li><a href="#about"><i class="fa fa-heart"></i>About</a></li>
+					<li><a href="#about"><i class="fa fa-heart"></i>About</a>
+					<li><a href="#about"><i class="fa fa-sign-out"></i>Sign out</a></li>
+
 				</ul>
 			</nav>
 		</div>
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="js/min/toucheffects-min.js"></script>
+		<script src="{{ url('js/min/toucheffects-min.js') }}"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script src="js/flickity.pkgd.min.js"></script>
-		<script src="js/jquery.fancybox.pack.js"></script>
+		<script src="{{ url('js/flickity.pkgd.min.js') }}"></script>
+		<script src="{{ url('js/jquery.fancybox.pack.js') }}"></script>
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
-		<script src="js/retina.js"></script>
-		<script src="js/waypoints.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/scripts.js"></script>
+		<script src="{{ url('js/retina.js') }}"></script>
+		<script src="{{ url('js/waypoints.min.js') }}"></script>
+		<script src="{{ url('js/bootstrap.min.js') }}"></script>
+		<script src="{{ url('js/scripts.js') }}"></script>
 		<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 		<script>
 		(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
