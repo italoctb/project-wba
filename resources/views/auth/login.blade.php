@@ -25,11 +25,14 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-3 col-md-offset-4 fadeInUp animated">
-            <div class="login">
-                <div class="logo">
-                    <img src="{{ url('img/logo-white.png') }}" alt="WBALogo"/>
-                </div>
+        <div class="col-md-12">
+
+            <div class="col-md-6 col-sm-6 col-xs-6 login-logo">
+                <a href="#"><img src="{{ asset('img/logo-white.png') }}" alt="WBALogo"></a>
+            </div>
+
+            <div class="login fadeInUp animated">
+                <h1>Restricted Area</h1>
                 {!! Form::open(['action' => 'Auth\AuthController@postLogin']) !!}
 
                     @include('includes.validation')
