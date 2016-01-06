@@ -31,7 +31,7 @@
                 <a href="#"><img src="{{ asset('img/logo-white.png') }}" alt="WBALogo"></a>
             </div>
 
-            <div class="login fadeInUp animated">
+            <div class="login slideInRight animated">
                 <h1>Restricted Area</h1>
                 {!! Form::open(['action' => 'Auth\AuthController@postLogin']) !!}
 
