@@ -182,7 +182,7 @@
 					
 					<li><a href="#features"><i class="fa fa-download"></i>Apps</a></li>
 					<li><a href="#about"><i class="fa fa-heart"></i>About</a>
-					<li><a href="#about"><i class="fa fa-sign-out"></i>Sign out</a></li>
+					<li><a href="{{ url('auth/logout') }}"><i class="fa fa-sign-out"></i>Sign out</a></li>
 
 				</ul>
 			</nav>
