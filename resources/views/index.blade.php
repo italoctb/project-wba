@@ -15,7 +15,7 @@
 		<!-- Bootstrap -->
 		<script src="{{ url('js/modernizr.custom.js') }}"></script>
 		<link href="{{ url('css/bootstrap.min.css') }}" rel="stylesheet">
-		<link href="{{ url('css/jquery.fancybox.') }}" rel="stylesheet">
+		<link href="{{ url('css/jquery.fancybox.css') }}" rel="stylesheet">
 		<link href="{{ url('css/flickity.css') }}" rel="stylesheet" >
 		<link href="{{ url('css/animate.css') }}" rel="stylesheet">
 		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
