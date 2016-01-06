@@ -38,4 +38,10 @@ class AuthController extends Controller
         return 'username';
     }
 
+    public function redirectPath()
+    {
+        return '/';
+    }
+
+
 }
