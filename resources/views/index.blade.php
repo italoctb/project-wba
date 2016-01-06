@@ -10,28 +10,19 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Wba Software Projects</title>
 		<meta name="description" content="Wba Software Projects" />
-		<meta name="keywords" content="hWba Software Projects" />
+		<meta name="keywords" content="Wba Software Projects" />
 		<meta name="author" content="Urbbox" />
 		<!-- Bootstrap -->
-		<script src="js/modernizr.custom.js"></script>
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-		<link href="css/jquery.fancybox.css" rel="stylesheet">
-		<link href="css/flickity.css" rel="stylesheet" >
-		<link href="css/animate.css" rel="stylesheet">
+		<script src="{{ url('js/modernizr.custom.js') }}"></script>
+		<link href="{{ url('css/bootstrap.min.css') }}" rel="stylesheet">
+		<link href="{{ url('css/jquery.fancybox.') }}" rel="stylesheet">
+		<link href="{{ url('css/flickity.css') }}" rel="stylesheet" >
+		<link href="{{ url('css/animate.css') }}" rel="stylesheet">
 		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
-		<link href="css/styles.css" rel="stylesheet">
-		<link href="css/queries.css" rel="stylesheet">
-		<!-- Facebook and Twitter integration -->
-		<meta property="og:title" content=""/>
-		<meta property="og:image" content=""/>
-		<meta property="og:url" content=""/>
-		<meta property="og:site_name" content=""/>
-		<meta property="og:description" content=""/>
-		<meta name="twitter:title" content="" />
-		<meta name="twitter:image" content="" />
-		<meta name="twitter:url" content="" />
-		<meta name="twitter:card" content="" />
+		<link href="http://fonts.googleapis.com/css?family=Nunito:400,300,700" rel="stylesheet" type="text/css">
+		<link href="{{ url('css/styles.css') }}" rel="stylesheet">
+		<link href="{{ url('css/queries.css') }}" rel="stylesheet">
+
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>

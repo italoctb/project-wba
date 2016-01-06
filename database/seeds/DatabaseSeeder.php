@@ -1,5 +1,6 @@
 <?php
 
+use Wba\User;
 use Illuminate\Database\Seeder;
 use Illuminate\Database\Eloquent\Model;
 
@@ -14,7 +15,12 @@ class DatabaseSeeder extends Seeder
     {
         Model::unguard();
 
-        // $this->call(UserTableSeeder::class);
+        User::create([
+            'name' => 'Administrator',
+            'email' => 'wba@urbbox.com.br',
+            'password' => bcrypt('Wba2016'),
+        ]);
+        $this->command->info("Admin user created!");
 
         Model::reguard();
     }

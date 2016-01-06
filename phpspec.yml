@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: Wba
+        psr4_prefix: Wba
         src_path: app

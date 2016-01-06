@@ -1,0 +1,152 @@
+svg {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+  overflow: visible;
+}
+
+.svg-icon {
+  cursor: pointer;
+}
+
+.svg-icon path {
+  stroke: rgba(255, 255, 255, 0.9);
+  fill: none;
+  stroke-width: 1;
+}
+
+body {
+  background-image: url("/img/hero-01.jpg");
+  background-size: cover;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.login {
+  width: 340px;
+  height: auto;
+  margin-top: 50px;
+  background: -webkit-linear-gradient(top, rgba(75, 152, 169, 0.8) 0%, rgba(0, 0, 0, 0.6) 100%);
+  background: linear-gradient(to bottom, rgba(75, 152, 169, 0.8) 0%, rgba(0, 0, 0, 0.6) 100%);
+  -webkit-transition: opacity 0.1s, -webkit-transform 0.3s cubic-bezier(0.17, -0.65, 0.665, 1.25);
+  transition: opacity 0.1s, -webkit-transform 0.3s cubic-bezier(0.17, -0.65, 0.665, 1.25);
+  transition: opacity 0.1s, transform 0.3s cubic-bezier(0.17, -0.65, 0.665, 1.25);
+  transition: opacity 0.1s, transform 0.3s cubic-bezier(0.17, -0.65, 0.665, 1.25), -webkit-transform 0.3s cubic-bezier(0.17, -0.65, 0.665, 1.25);
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  padding: 50px;
+}
+
+.login .logo {
+  padding: 10px;
+}
+
+.login .logo img {
+  width: 100%;
+}
+
+.login form {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.login .row {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  margin-top: 20px;
+}
+
+.login .input-group-addon {
+  background: transparent;
+  border: none;
+}
+
+.login .form-control {
+  background: none;
+  border: none;
+  box-shadow: none;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+
+.login .icon {
+  margin-bottom: -0.4rem;
+  margin-right: 0.5rem;
+}
+
+.login .icon.name path {
+  stroke-dasharray: 73.50196075439453;
+  stroke-dashoffset: 73.50196075439453;
+  -webkit-animation: animatePath 2s 0.5s forwards;
+          animation: animatePath 2s 0.5s forwards;
+}
+.login .icon.pass path {
+  stroke-dasharray: 92.10662841796875;
+  stroke-dashoffset: 92.10662841796875;
+  -webkit-animation: animatePath 2s 0.5s forwards;
+          animation: animatePath 2s 0.5s forwards;
+}
+
+.login .form-control {
+  display: inline-block;
+  font-size: 14px;
+  background: transparent;
+  color: #FDFCFD;
+}
+
+.login .submit {
+  display: block;
+  height: 4rem;
+  margin-top: 5rem;
+  color: rgba(255, 255, 255, 0.8);
+  background: #4b98a9;
+  font-size: 1.5rem;
+  border-radius: 3rem;
+  -webkit-transition: width 0.3s 0.15s, font-size 0.1s 0.15s;
+  transition: width 0.3s 0.15s, font-size 0.1s 0.15s;
+}
+
+.login .alert.alert-danger {
+  opacity: 0.8;
+  background-color: #BB1F23;
+  color: #fff;
+  font-size: 12px;
+  border: none;
+}
+
+@-webkit-keyframes animRipple {
+  to {
+    -webkit-transform: scale(3.5);
+            transform: scale(3.5);
+    opacity: 0;
+  }
+}
+
+@keyframes animRipple {
+  to {
+    -webkit-transform: scale(3.5);
+            transform: scale(3.5);
+    opacity: 0;
+  }
+}
+@-webkit-keyframes rotate {
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes rotate {
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes animatePath {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes animatePath {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
