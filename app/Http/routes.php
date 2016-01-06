@@ -1,8 +1,6 @@
 <?php
 
-$router->get('/', ['middleware' => 'auth'], function () {
-    return view('index');
-});
+Route::get('/', 'HomeController@index');
 
-$router->get('auth/login', 'Auth\AuthController@getLogin');
-$router->post('auth/login', 'Auth\AuthController@postLogin');
+Route::get('auth/login', 'Auth\AuthController@getLogin');
+Route::post('auth/login', 'Auth\AuthController@postLogin');

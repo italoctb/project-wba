@@ -42,7 +42,7 @@
                                         <path d="M0,20 a10,8 0 0,1 20,0z M10,0 a4,4 0 0,1 0,8 a4,4 0 0,1 0,-8"/>
                                     </svg>
                                 </div>
-                                <input type="text" name="email" class="form-control name" placeholder="Username" autocomplete="off"/>
+                                <input type="text" name="username" class="form-control name" placeholder="Username" autocomplete="off"/>
                             </div>
                         </div>
                     </div>

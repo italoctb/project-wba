@@ -17,8 +17,8 @@ class DatabaseSeeder extends Seeder
 
         User::create([
             'name' => 'Administrator',
-            'email' => 'wba@urbbox.com.br',
-            'password' => bcrypt('Wba2016'),
+            'username' => 'wba',
+            'password' => Hash::make('Wba2016'),
         ]);
         $this->command->info("Admin user created!");
 
