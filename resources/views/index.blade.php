@@ -10,28 +10,19 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Wba Software Projects</title>
 		<meta name="description" content="Wba Software Projects" />
-		<meta name="keywords" content="hWba Software Projects" />
+		<meta name="keywords" content="Wba Software Projects" />
 		<meta name="author" content="Urbbox" />
 		<!-- Bootstrap -->
-		<script src="js/modernizr.custom.js"></script>
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-		<link href="css/jquery.fancybox.css" rel="stylesheet">
-		<link href="css/flickity.css" rel="stylesheet" >
-		<link href="css/animate.css" rel="stylesheet">
+		<script src="{{ url('js/modernizr.custom.js') }}"></script>
+		<link href="{{ url('css/bootstrap.min.css') }}" rel="stylesheet">
+		<link href="{{ url('css/jquery.fancybox.css') }}" rel="stylesheet">
+		<link href="{{ url('css/flickity.css') }}" rel="stylesheet" >
+		<link href="{{ url('css/animate.css') }}" rel="stylesheet">
 		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
-		<link href="css/styles.css" rel="stylesheet">
-		<link href="css/queries.css" rel="stylesheet">
-		<!-- Facebook and Twitter integration -->
-		<meta property="og:title" content=""/>
-		<meta property="og:image" content=""/>
-		<meta property="og:url" content=""/>
-		<meta property="og:site_name" content=""/>
-		<meta property="og:description" content=""/>
-		<meta name="twitter:title" content="" />
-		<meta name="twitter:image" content="" />
-		<meta name="twitter:url" content="" />
-		<meta name="twitter:card" content="" />
+		<link href="http://fonts.googleapis.com/css?family=Nunito:400,300,700" rel="stylesheet" type="text/css">
+		<link href="{{ url('css/styles.css') }}" rel="stylesheet">
+		<link href="{{ url('css/queries.css') }}" rel="stylesheet">
+
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -76,7 +67,7 @@
 								<h1>Shopfloor Cockpit</h1>
 								<p>Visualisierung von Fertigungsaufträgen und Zeiterfassung</p>
 								
-								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.com/download/apps/cockpit/manifest.plist" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/cockpit/manifest.plist" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
@@ -84,7 +75,7 @@
 								<img src="/img/7w_icon.png"/>
 								<h1>7W Capture</h1>
 								<p>App zur Fehlerdokumentation entwickelt für die Firma Siebenwurst</p>
-								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.com/download/apps/7w/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/7w/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
@@ -92,7 +83,7 @@
 								<img src="/img/ida_icon.png"/>
 								<h1>IDA 2.0</h1>
 								<p>Information Digitalization Application</p>
-								<a href="itms-services://?action=download-manifest&url=https://192.168.60.212/download/apps/ida/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/ida/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div></div>
 				</div>
@@ -107,15 +98,15 @@
 								<img src="/img/wba_icon.png"/>
 								<h1>Wba Jahrestreffen</h1>
 								<p>App zum WBA Jahrestreffen 2015</p>
-								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.com/download/apps/jahrestreffen/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/jahrestreffen/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-6 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
-								<img src="/img/kolloquium_icon.png"/>
+								<img src="/img/kolloquium_icon.png"/>s
 								<h1>Kolloquium Werkzeugbau mit Zukunft</h1>
 								<p>App zum Kolloquium Werkzeugbau mit Zukunft 2015</p>
-								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.com/download/apps/wmz/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/wmz/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -180,6 +171,7 @@
 						<ul class="footer-nav">
 							<li><a href="#features">Apps</a></li>
 							<li><a href="#about">About</a></li>
+							<li><a href="{{ url('auth/logout') }}">Sign out</a></li>
 						</ul>
 					</div>
 				</div>
@@ -190,20 +182,22 @@
 				<ul>
 					
 					<li><a href="#features"><i class="fa fa-download"></i>Apps</a></li>
-					<li><a href="#about"><i class="fa fa-heart"></i>About</a></li>
+					<li><a href="#about"><i class="fa fa-heart"></i>About</a>
+					<li><a href="{{ url('auth/logout') }}"><i class="fa fa-sign-out"></i>Sign out</a></li>
+
 				</ul>
 			</nav>
 		</div>
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="js/min/toucheffects-min.js"></script>
+		<script src="{{ url('js/min/toucheffects-min.js') }}"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script src="js/flickity.pkgd.min.js"></script>
-		<script src="js/jquery.fancybox.pack.js"></script>
+		<script src="{{ url('js/flickity.pkgd.min.js') }}"></script>
+		<script src="{{ url('js/jquery.fancybox.pack.js') }}"></script>
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
-		<script src="js/retina.js"></script>
-		<script src="js/waypoints.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/scripts.js"></script>
+		<script src="{{ url('js/retina.js') }}"></script>
+		<script src="{{ url('js/waypoints.min.js') }}"></script>
+		<script src="{{ url('js/bootstrap.min.js') }}"></script>
+		<script src="{{ url('js/scripts.js') }}"></script>
 		<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 		<script>
 		(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
