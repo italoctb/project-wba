@@ -11,19 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
+<<<<<<< HEAD
+					<string>https://apps.werkzeugbau-akademie.com/download/apps/jahrestreffen/Kolloquium.ios.ipa</string>
+=======
 					<string>https://wba-projects.herokuapp.com/download/apps/jahrestreffen/Kolloquium.ios.ipa</string>
+>>>>>>> 061983d7f6666b3f4f3ccdc314abd77672a8cb83
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
+<<<<<<< HEAD
+					<string>https://apps.werkzeugbau-akademie.com/download/apps/jahrestreffen/jahrestreffen.57x57.jpg</string>
+=======
 					<string>https://wba-projects.herokuapp.com/download/apps/jahrestreffen/jahrestreffen.57x57.jpg</string>
+>>>>>>> 061983d7f6666b3f4f3ccdc314abd77672a8cb83
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
+<<<<<<< HEAD
+					<string>https://apps.werkzeugbau-akademie.com/download/apps/jahrestreffen/jahrestreffen.512x512.jpg</string>
+=======
 					<string>https://wba-projects.herokuapp.com/download/apps/jahrestreffen/jahrestreffen.512x512.jpg</string>
+>>>>>>> 061983d7f6666b3f4f3ccdc314abd77672a8cb83
 				</dict>
 			</array>
 			<key>metadata</key>
