@@ -120,7 +120,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<h1><a href="https://docs.google.com/forms/d/13Ssxcccnneoqt-9mDsMnbKxA92iaCE87boZIQlPAH9Q/viewform" class="youtube-media"><i class="fa fa-play-circle-o"></i> Neue App Idee anmelden</a></h1>
+						<h1><a href="https://docs.google.com/forms/d/13Ssxcccnneoqt-9mDsMnbKxA92iaCE87boZIQlPAH9Q/viewform" class="youtube-media"><i class="fa fa-lightbulb-o"></i> Neue App Idee anmelden</a></h1>
 					</div>
 				</div>
 			</div>
