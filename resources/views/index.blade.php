@@ -10,28 +10,19 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Wba Software Projects</title>
 		<meta name="description" content="Wba Software Projects" />
-		<meta name="keywords" content="hWba Software Projects" />
+		<meta name="keywords" content="Wba Software Projects" />
 		<meta name="author" content="Urbbox" />
 		<!-- Bootstrap -->
-		<script src="js/modernizr.custom.js"></script>
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-		<link href="css/jquery.fancybox.css" rel="stylesheet">
-		<link href="css/flickity.css" rel="stylesheet" >
-		<link href="css/animate.css" rel="stylesheet">
+		<script src="{{ url('js/modernizr.custom.js') }}"></script>
+		<link href="{{ url('css/bootstrap.min.css') }}" rel="stylesheet">
+		<link href="{{ url('css/jquery.fancybox.css') }}" rel="stylesheet">
+		<link href="{{ url('css/flickity.css') }}" rel="stylesheet" >
+		<link href="{{ url('css/animate.css') }}" rel="stylesheet">
 		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
-		<link href="css/styles.css" rel="stylesheet">
-		<link href="css/queries.css" rel="stylesheet">
-		<!-- Facebook and Twitter integration -->
-		<meta property="og:title" content=""/>
-		<meta property="og:image" content=""/>
-		<meta property="og:url" content=""/>
-		<meta property="og:site_name" content=""/>
-		<meta property="og:description" content=""/>
-		<meta name="twitter:title" content="" />
-		<meta name="twitter:image" content="" />
-		<meta name="twitter:url" content="" />
-		<meta name="twitter:card" content="" />
+		<link href="http://fonts.googleapis.com/css?family=Nunito:400,300,700" rel="stylesheet" type="text/css">
+		<link href="{{ url('css/styles.css') }}" rel="stylesheet">
+		<link href="{{ url('css/queries.css') }}" rel="stylesheet">
+
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -73,26 +64,43 @@
 						<div class="col-md-4 feature-1 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/cockpit_icon.png"/>
+<<<<<<< HEAD
 								<h1>Shopfloor Cockpit</h1>
 								<p>App zur Visualisierung der Fertigungsaufträge und Zeiterfassung.</p>
 								
 								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/cockpit/manifest.plist" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
+=======
+								<h1>Cockpit</h1>
+								<p>Built using HTML5/CSS3 and jQuery, and built using one of the world's most powerful CSS frameworks available, Bootstrap.</p>
+								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/cockpit/manifest.plist') }}" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
+>>>>>>> 061983d7f6666b3f4f3ccdc314abd77672a8cb83
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/7w_icon.png"/>
 								<h1>7W Capture</h1>
+<<<<<<< HEAD
 								<p>App zur Fehlerdokumentation entwickelt für die Firma Siebenwurst.</p>
 								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/7w/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+=======
+								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
+								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/7w/manifest.plist') }}" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+>>>>>>> 061983d7f6666b3f4f3ccdc314abd77672a8cb83
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/ida_icon.png"/>
+<<<<<<< HEAD
 								<h1>IDA 2.0</h1>
 								<p>Information Digitalization Application.</p>
 								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/ida/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+=======
+								<h1>IDA </h1>
+								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
+								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/ida/manifest.plist') }}" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+>>>>>>> 061983d7f6666b3f4f3ccdc314abd77672a8cb83
 							</div>
 						</div>
 
@@ -109,17 +117,28 @@
 							<div class="feature-content">
 								<img src="/img/wba_icon.png"/>
 								<h1>Wba Jahrestreffen</h1>
+<<<<<<< HEAD
 								<p>App zum WBA Jahrestreffen 2015.</p>
 								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/jahrestreffen/manifest.plist" class="read-more-btn">Download 
 									<i class="fa fa-chevron-circle-right"></i></a>
+=======
+								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
+								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/jahrestreffen/manifest.plist') }}" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+>>>>>>> 061983d7f6666b3f4f3ccdc314abd77672a8cb83
 							</div>
 						</div>
 						<div class="col-md-6 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/kolloquium_icon.png"/>
+<<<<<<< HEAD
 								<h1>Kolloquium Werkzeugbau mit Zukunft</h1>
 								<p>App zum Kolloquium Werkzeugbau mit Zukunft 2015.</p>
 								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/wmz/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+=======
+								<h1>Werkzeugbau Kolloquium</h1>
+								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
+								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/wmz/manifest.plist') }}" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+>>>>>>> 061983d7f6666b3f4f3ccdc314abd77672a8cb83
 							</div>
 						</div>
 					</div>
@@ -184,6 +203,7 @@
 						<ul class="footer-nav">
 							<li><a href="#features">Apps</a></li>
 							<li><a href="#about">About</a></li>
+							<li><a href="{{ url('auth/logout') }}">Sign out</a></li>
 						</ul>
 					</div>
 				</div>
@@ -194,20 +214,22 @@
 				<ul>
 					
 					<li><a href="#features"><i class="fa fa-download"></i>Apps</a></li>
-					<li><a href="#about"><i class="fa fa-heart"></i>About</a></li>
+					<li><a href="#about"><i class="fa fa-heart"></i>About</a>
+					<li><a href="{{ url('auth/logout') }}"><i class="fa fa-sign-out"></i>Sign out</a></li>
+
 				</ul>
 			</nav>
 		</div>
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="js/min/toucheffects-min.js"></script>
+		<script src="{{ url('js/min/toucheffects-min.js') }}"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script src="js/flickity.pkgd.min.js"></script>
-		<script src="js/jquery.fancybox.pack.js"></script>
+		<script src="{{ url('js/flickity.pkgd.min.js') }}"></script>
+		<script src="{{ url('js/jquery.fancybox.pack.js') }}"></script>
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
-		<script src="js/retina.js"></script>
-		<script src="js/waypoints.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/scripts.js"></script>
+		<script src="{{ url('js/retina.js') }}"></script>
+		<script src="{{ url('js/waypoints.min.js') }}"></script>
+		<script src="{{ url('js/bootstrap.min.js') }}"></script>
+		<script src="{{ url('js/scripts.js') }}"></script>
 		<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 		<script>
 		(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
