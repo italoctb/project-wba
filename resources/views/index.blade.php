@@ -74,7 +74,7 @@
 							<div class="feature-content">
 								<img src="/img/cockpit_icon.png"/>
 								<h1>Shopfloor Cockpit</h1>
-								<p>App zur Visualisierung der Fertigungsaufträge und Zeiterfassung.</p>
+								<p>Visualisierung von Fertigungsaufträgen und Zeiterfassung</p>
 								
 								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.com/download/apps/cockpit/manifest.plist" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
 							</div>
@@ -83,7 +83,7 @@
 							<div class="feature-content">
 								<img src="/img/7w_icon.png"/>
 								<h1>7W Capture</h1>
-								<p>App zur Fehlerdokumentation entwickelt für die Firma Siebenwurst.</p>
+								<p>App zur Fehlerdokumentation entwickelt für die Firma Siebenwurst</p>
 								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.com/download/apps/7w/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
@@ -91,7 +91,7 @@
 							<div class="feature-content">
 								<img src="/img/ida_icon.png"/>
 								<h1>IDA 2.0</h1>
-								<p>Information Digitalization Application.</p>
+								<p>Information Digitalization Application</p>
 								<a href="itms-services://?action=download-manifest&url=https://192.168.60.212/download/apps/ida/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div></div>
@@ -106,20 +106,15 @@
 							<div class="feature-content">
 								<img src="/img/wba_icon.png"/>
 								<h1>Wba Jahrestreffen</h1>
-								<p>App zum WBA Jahrestreffen 2015.</p>
-<<<<<<< HEAD
-								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.com/download/apps/jahrestreffen/manifest.plist" class="read-more-btn">Download 
-=======
-								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.de/download/apps/jahrestreffen/manifest.plist" class="read-more-btn">Download 
->>>>>>> 0bbcfd714b969b9250954f838971b0557ca89037
-									<i class="fa fa-chevron-circle-right"></i></a>
+								<p>App zum WBA Jahrestreffen 2015</p>
+								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.com/download/apps/jahrestreffen/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-6 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/kolloquium_icon.png"/>
 								<h1>Kolloquium Werkzeugbau mit Zukunft</h1>
-								<p>App zum Kolloquium Werkzeugbau mit Zukunft 2015.</p>
+								<p>App zum Kolloquium Werkzeugbau mit Zukunft 2015</p>
 								<a href="itms-services://?action=download-manifest&url=https://apps.werkzeugbau-akademie.com/download/apps/wmz/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
@@ -129,16 +124,16 @@
 			</div>
 		</section>
 	</section>
-		<!--<section class="video" id="about">
+		<section class="video" id="about">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<h1><a href="http://www.youtube.com/embed/GlOAUzcx4Lk?autoplay=1&wmode=opaque&fs=1" class="youtube-media"><i class="fa fa-play-circle-o"></i> The future of Manufacture</a></h1>
+						<h1><a href="https://drive.google.com/open?id=13Ssxcccnneoqt-9mDsMnbKxA92iaCE87boZIQlPAH9Q" class="youtube-media"><i class="fa fa-play-circle-o"></i> Neue App Idee anmelden</a></h1>
 					</div>
 				</div>
 			</div>
 		</section>
-		-->
+		
 		<section class="features-intro">
 			<div class="container-fluid">
 				<div class="row">
@@ -160,11 +155,11 @@
 									</li>
 									<li>
 										<h1>Effizienzsteigerung</h1>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+										<p>Die Digitalisierung bestehender Prozessen ermöglicht die Einsparung von Kosten, Zeit sowie die Effizienzsteigerung.</p>
 									</li>
 									<li>
-										<h1>Efficiency</h1>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+										<h1>Mehrwert durch Vernetzung</h1>
+										<p>Auch die Zusammenarbeit kann durch Mobile-Applikationen unterstützt werden. Mitarbeiter können Informationen austauschen und jederzeit auf aktuelle Informationen zugreifen.</p>
 									</li>
 								</ul>
 						</div>
