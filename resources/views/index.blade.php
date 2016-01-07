@@ -67,7 +67,7 @@
 
 								<h1>Shopfloor Cockpit</h1>
 								<p>Visualisierung von Fertigungsaufträgen und Zeiterfassung</p>
-								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/cockpit/manifest.plist" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/cockpit/manifest.plist') }}" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
 
 							</div>
 						</div>
