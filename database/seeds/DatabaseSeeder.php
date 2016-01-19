@@ -18,9 +18,20 @@ class DatabaseSeeder extends Seeder
         User::create([
             'name' => 'Administrator',
             'username' => 'wba',
-            'password' => Hash::make('Wba2016'),
+            'password' => \Hash::make('Wba2016'),
         ]);
-        $this->command->info("Admin user created!");
+
+        $parser = KzykHys\CsvParser\CsvParser::fromFile(storage_path('app/seed.csv'), ['delimiter' => ';', 'encoding' => 'utf8', 'header' => ['name', 'username', 'email']]);
+        $data = $parser->parse();
+
+        foreach ($data as $row)
+        {
+            $password = str_random();
+            $this->command->info($password);
+            User::create(array_merge($row, [
+                'password' => \Hash::make($password)
+            ]));
+        }
 
         Model::reguard();
     }
