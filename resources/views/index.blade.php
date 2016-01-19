@@ -64,17 +64,18 @@
 						<div class="col-md-4 feature-1 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/cockpit_icon.png"/>
+
 								<h1>Shopfloor Cockpit</h1>
 								<p>Visualisierung von Fertigungsaufträgen und Zeiterfassung</p>
-								
-								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/cockpit/manifest.plist" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/cockpit/manifest.plist') }}" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
+
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/7w_icon.png"/>
 								<h1>7W Capture</h1>
-								<p>App zur Fehlerdokumentation entwickelt für die Firma Siebenwurst</p>
+								<p>App zur Fehlerdokumentation entwickelt für die Firma Siebenwurst.</p>
 								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/7w/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
@@ -82,7 +83,7 @@
 							<div class="feature-content">
 								<img src="/img/ida_icon.png"/>
 								<h1>IDA 2.0</h1>
-								<p>Information Digitalization Application</p>
+								<p>Information Digitalization Application.</p>
 								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/ida/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div></div>
@@ -119,7 +120,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<h1><a href="https://drive.google.com/open?id=13Ssxcccnneoqt-9mDsMnbKxA92iaCE87boZIQlPAH9Q" class="youtube-media"><i class="fa fa-play-circle-o"></i> Neue App Idee anmelden</a></h1>
+						<h1><a href="https://docs.google.com/forms/d/13Ssxcccnneoqt-9mDsMnbKxA92iaCE87boZIQlPAH9Q/viewform" class="youtube-media"><i class="fa fa-lightbulb-o"></i> Neue App Idee anmelden</a></h1>
 					</div>
 				</div>
 			</div>
