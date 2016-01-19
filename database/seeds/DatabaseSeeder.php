@@ -21,7 +21,7 @@ class DatabaseSeeder extends Seeder
             'password' => \Hash::make('Wba2016'),
         ]);
 
-        $parser = KzykHys\CsvParser\CsvParser::fromFile(storage_path('app/seed.csv'), ['delimiter' => ';', 'encoding' => 'utf8', 'header' => ['name', 'username', 'email']]);
+        $parser = KzykHys\CsvParser\CsvParser::fromFile(storage_path('app/seeders/seed.csv'), ['delimiter' => ';', 'encoding' => 'utf8', 'header' => ['name', 'username', 'email']]);
         $data = $parser->parse();
 
         foreach ($data as $row)
