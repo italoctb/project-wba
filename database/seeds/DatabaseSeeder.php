@@ -21,16 +21,18 @@ class DatabaseSeeder extends Seeder
             'password' => \Hash::make('Wba2016'),
         ]);
 
-        $parser = KzykHys\CsvParser\CsvParser::fromFile(storage_path('app/seeders/seed.csv'), ['delimiter' => ';', 'encoding' => 'utf8', 'header' => ['name', 'username', 'email']]);
+        $parser = KzykHys\CsvParser\CsvParser::fromFile(storage_path('app/seeders/seed.csv'), ['delimiter' => ';', 'encoding' => 'utf8']);
         $data = $parser->parse();
 
         foreach ($data as $row)
         {
             $password = str_random();
             $this->command->info($password);
-            User::create(array_except(array_merge($row, [
-                'password' => \Hash::make($password)
-            ]), ['email']));
+            User::create([
+                'name' => $row[0],
+                'username' => $row[1],
+                'password' => \Hash::make($password),
+            ]);
         }
 
         Model::reguard();
