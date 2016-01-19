@@ -49,13 +49,14 @@
 					</div>
 					<div class="row hero-content">
 						<div class="col-md-12">
-							<h1 class="animated fadeInDown">Apps for industry</h1>
-						    <a href="#features" class="learn-btn animated fadeInUp">Learn more <i class="fa fa-arrow-down"></i></a>
+							<h1 class="animated fadeInDown">Apps für den Werkzeugbau</h1>
+						    <a href="#features" class="learn-btn animated fadeInUp">Mehr erfahren <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
 				</div>
 			</section>
 		</header>
+		<section style="padding:130px 0;">
 		<section class="features-list" style="padding-bottom: 0"id="features">
 			<div class="container">
 				<div class="row">
@@ -63,30 +64,28 @@
 						<div class="col-md-4 feature-1 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/cockpit_icon.png"/>
-								<h1>Cockpit</h1>
-								<p>Built using HTML5/CSS3 and jQuery, and built using one of the world's most powerful CSS frameworks available, Bootstrap.</p>
-								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/cockpit/manifest.plist') }}" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
+								<h1>Shopfloor Cockpit</h1>
+								<p>Visualisierung von Fertigungsaufträgen und Zeiterfassung</p>
+								
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/cockpit/manifest.plist" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/7w_icon.png"/>
 								<h1>7W Capture</h1>
-								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
-								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/7w/manifest.plist') }}" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<p>App zur Fehlerdokumentation entwickelt für die Firma Siebenwurst</p>
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/7w/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/ida_icon.png"/>
-								<h1>IDA </h1>
-								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
-								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/ida/manifest.plist') }}" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<h1>IDA 2.0</h1>
+								<p>Information Digitalization Application</p>
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/ida/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
-						</div>
-
-
-					</div>
+						</div></div>
 				</div>
 			</div>
 		</section>
@@ -94,20 +93,20 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<div class="col-md-6 feature-5 wp2 " style="text-align: center;">
+						<div class="col-md-6 feature-2 wp2 " style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/wba_icon.png"/>
 								<h1>Wba Jahrestreffen</h1>
-								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
-								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/jahrestreffen/manifest.plist') }}" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<p>App zum WBA Jahrestreffen 2015</p>
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/jahrestreffen/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
-						<div class="col-md-6 feature-6 wp2" style="text-align: center;">
+						<div class="col-md-6 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
-								<img src="/img/kolloquium_icon.png"/>
-								<h1>Werkzeugbau Kolloquium</h1>
-								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
-								<a href="itms-services://?action=download-manifest&url={{ secure_asset('download/apps/wmz/manifest.plist') }}" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<img src="/img/kolloquium_icon.png"/>s
+								<h1>Kolloquium Werkzeugbau mit Zukunft</h1>
+								<p>App zum Kolloquium Werkzeugbau mit Zukunft 2015</p>
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/wmz/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -115,15 +114,17 @@
 				</div>
 			</div>
 		</section>
+	</section>
 		<section class="video" id="about">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<h1><a href="http://www.youtube.com/embed/GlOAUzcx4Lk?autoplay=1&wmode=opaque&fs=1" class="youtube-media"><i class="fa fa-play-circle-o"></i> The future of Manufacture</a></h1>
+						<h1><a href="https://drive.google.com/open?id=13Ssxcccnneoqt-9mDsMnbKxA92iaCE87boZIQlPAH9Q" class="youtube-media"><i class="fa fa-play-circle-o"></i> Neue App Idee anmelden</a></h1>
 					</div>
 				</div>
 			</div>
 		</section>
+		
 		<section class="features-intro">
 			<div class="container-fluid">
 				<div class="row">
@@ -139,17 +140,17 @@
 						<div class="features-slider">
 								<ul class="slides" id="featuresSlider">
 									<li>
-										<h1>Innovative Ideas</h1>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+										<h1>Transparenz in der Produktion</h1>
+										<p>Durch die gezielte Visualisierung von Produktionsdaten können Entscheidungen effizienter getroffen werden.</p>
 
 									</li>
 									<li>
-										<h1>Mobile apps</h1>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+										<h1>Effizienzsteigerung</h1>
+										<p>Die Digitalisierung bestehender Prozessen ermöglicht die Einsparung von Kosten, Zeit sowie die Effizienzsteigerung.</p>
 									</li>
 									<li>
-										<h1>Efficiency</h1>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+										<h1>Mehrwert durch Vernetzung</h1>
+										<p>Auch die Zusammenarbeit kann durch Mobile-Applikationen unterstützt werden. Mitarbeiter können Informationen austauschen und jederzeit auf aktuelle Informationen zugreifen.</p>
 									</li>
 								</ul>
 						</div>
