@@ -28,9 +28,9 @@ class DatabaseSeeder extends Seeder
         {
             $password = str_random();
             $this->command->info($password);
-            User::create(array_merge($row, [
+            User::create(array_except(array_merge($row, [
                 'password' => \Hash::make($password)
-            ]));
+            ]), ['email']));
         }
 
         Model::reguard();
