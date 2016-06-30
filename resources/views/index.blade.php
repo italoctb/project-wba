@@ -67,7 +67,8 @@
 								<h1>Shopfloor Cockpit</h1>
 								<p>Visualisierung von Fertigungsaufträgen und Zeiterfassung</p>
 								
-								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/cockpit/manifest.plist" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a>
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/cockpit/manifest.plist" class="read-more-btn">Download iPad<i class="fa fa-chevron-circle-right"></i></a>
+								<a href="https://wba-projects.herokuapp.com/download/apps/cockpit/android.apk" class="read-more-btn">Download Android<i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
@@ -89,24 +90,54 @@
 				</div>
 			</div>
 		</section>
-		<section class="features-list">
-			<div class="container">
+		<section class="features-list" style="padding-top:20px">
+			<div class="container"5
 				<div class="row">
 					<div class="col-md-12">
-						<div class="col-md-6 feature-2 wp2 " style="text-align: center;">
+						<div class="col-md-4 feature-2 wp2 " style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/wba_icon.png"/>
 								<h1>Wba Jahrestreffen</h1>
 								<p>App zum WBA Jahrestreffen 2015</p>
-								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/jahrestreffen/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="https://itunes.apple.com/us/app/wba-jahrestreffen-2015/id932990406?l=pt&ls=1&mt=8" class="read-more-btn">Download IPhone <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="https://play.google.com/store/apps/details?id=com.holandago.urbbox.jahrestreffen" class="read-more-btn">Download Android <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
-						<div class="col-md-6 feature-2 wp2" style="text-align: center;">
+						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
-								<img src="/img/kolloquium_icon.png"/>s
+								<img src="/img/kolloquium_icon.png"/>
 								<h1>Kolloquium Werkzeugbau mit Zukunft</h1>
 								<p>App zum Kolloquium Werkzeugbau mit Zukunft 2015</p>
-								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/wmz/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="https://itunes.apple.com/us/app/werkzeugbau-mit-zukunft/id933115620?l=pt&ls=1&mt=8" class="read-more-btn">Download Iphone <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="https://play.google.com/store/apps/details?id=com.urbbox.holandago.wmz" class="read-more-btn">Download Android <i class="fa fa-chevron-circle-right"></i></a>
+								
+							</div>
+						</div>
+						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
+							<div class="feature-content">
+								<img src="/img/wbaReport_Icon.png" width="152px"/>
+								<h1>WBA Reports</h1>
+								<p>App zur Visualisierung der Unternehmenskennzahlen</p>
+								<a href="http://kickapps-web.herokuapp.com/app/9" class="read-more-btn">Download<i class="fa fa-chevron-circle-right"></i></a><b>
+							</div>
+						</div>
+					</div>
+				
+				</div>
+			</div>
+		</section>
+		<section class="features-list" style="padding-top:20px">
+			<div class="container"5
+				<div class="row">
+					<div class="col-md-12">
+
+						<div class="col-md-12 feature-2 wp2" style="text-align: center;">
+							<div class="feature-content">
+								<img src="/img/kickapps-icon-144x144.png" width="152px"/>
+								<h1>Kickapps</h1>
+								<p>Excel Add-in zur App-Entwicklung</p>
+								<a href="http://apps.werkzeugbau-akademie.com/download/apps/pluginexcel/Kickapp1_2_2_4.zip" download class="read-more-btn">Installationsanweisungen<i class="fa fa-chevron-circle-right"></i></a>
+								
 							</div>
 						</div>
 					</div>
