@@ -61,6 +61,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
+
+						<!-- Shopfloor Cockpit -->
 						<div class="col-md-4 feature-1 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/cockpit_icon.png"/>
@@ -71,14 +73,29 @@
 								<a href="https://wba-projects.herokuapp.com/download/apps/cockpit/android.apk" class="read-more-btn">Download Android<i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
-						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
+						<!-- Shopfloor Cockpit -->
+
+						<!--<div class="col-md-4 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/7w_icon.png"/>
 								<h1>7W Capture</h1>
 								<p>App zur Fehlerdokumentation entwickelt für die Firma Siebenwurst</p>
 								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/7w/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
+						</div>-->
+
+						<!-- Kickapps -->
+						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
+							<div class="feature-content">
+								<img src="/img/kickapps-icon-144x144.png" width="152px"/>
+								<h1>Kickapps</h1>
+								<p>Excel Add-in zur App-Entwicklung</p>
+								<a href="http://apps.werkzeugbau-akademie.com/download/apps/pluginexcel/Kickapp1_2_2_4.zip" download class="read-more-btn">Installationsanweisungen<i class="fa fa-chevron-circle-right"></i></a>
+							</div>
 						</div>
+						<!-- Kickapps -->
+
+						<!-- APP IDA -->
 						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
 							<div class="feature-content">
 								<img src="/img/ida_icon.png"/>
@@ -86,7 +103,21 @@
 								<p>Information Digitalization Application</p>
 								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/ida/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
-						</div></div>
+						</div>
+						<!-- APP IDA -->
+
+						<div class="col-md-4 feature-2 wp2" style="text-align: center;">
+							<div class="feature-content">
+								<img src="/img/quickcheck_icon.png"/>
+								<h1>QuickCheck</h1>
+								<p>Ist eine iPad App für eine Umfrage mit 3 x 3 Fragen</p>
+								<a href="itms-services://?action=download-manifest&url=https://wba-projects.herokuapp.com/download/apps/quickcheck/manifest.plist" class="read-more-btn">Download <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+
+						<!-- Newer apps go here -->
+
+					</div>
 				</div>
 			</div>
 		</section>
@@ -126,8 +157,8 @@
 				</div>
 			</div>
 		</section>
-		<section class="features-list" style="padding-top:20px">
-			<div class="container"5
+		<!--<section class="features-list" style="padding-top:20px">
+			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
 
@@ -144,7 +175,7 @@
 				
 				</div>
 			</div>
-		</section>
+		</section>-->
 	</section>
 		<section class="video" id="about">
 			<div class="container">
